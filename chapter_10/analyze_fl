@@ -1,0 +1,3 @@
+#!/bin/sh
+python3 -m birdnet_analyzer.analyze --lat 27.8529272 --lon -82.2609815 -o tmp $1
+

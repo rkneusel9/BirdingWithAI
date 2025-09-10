@@ -1,0 +1,3 @@
+#!/bin/sh
+python3 -m birdnet_analyzer.analyze -o tmp $1
+

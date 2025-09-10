@@ -1,0 +1,33 @@
+#  Test rgb and gray models
+echo "RGB, 64x64"
+echo "LeNet-5:"
+python3 inference.py ../data/ood_64_xtrain.npy none results/bird6_rgb_64_f20_lenet5/model.keras 0 /tmp/ttt 2>/dev/null >/dev/null
+python3 ood_analysis.py /tmp/ttt/keep_labels.npy ../data/ood_ytrain.npy 2>/dev/null
+echo " "
+
+echo "VGG8:"
+python3 inference.py ../data/ood_64_xtrain.npy none results/bird6_rgb_64_f20_vgg8/model.keras 0 /tmp/ttt 2>/dev/null >/dev/null
+python3 ood_analysis.py /tmp/ttt/keep_labels.npy ../data/ood_ytrain.npy 2>/dev/null
+echo " "
+
+echo "ResNet-18:"
+python3 inference.py ../data/ood_64_xtrain.npy none results/bird6_rgb_64_f20_resnet18/model.keras 0 /tmp/ttt 2>/dev/null >/dev/null
+python3 ood_analysis.py /tmp/ttt/keep_labels.npy ../data/ood_ytrain.npy 2>/dev/null
+echo " "
+
+echo "Gray, 64x64"
+echo "LeNet-5:"
+python3 inference.py ../data/ood_gray_64_xtrain.npy none results/bird6_gray_64_f20_lenet5/model.keras 0 /tmp/ttt 2>/dev/null >/dev/null
+python3 ood_analysis.py /tmp/ttt/keep_labels.npy ../data/ood_ytrain.npy 2>/dev/null
+echo " "
+
+echo "VGG8:"
+python3 inference.py ../data/ood_gray_64_xtrain.npy none results/bird6_gray_64_f20_vgg8/model.keras 0 /tmp/ttt 2>/dev/null >/dev/null
+python3 ood_analysis.py /tmp/ttt/keep_labels.npy ../data/ood_ytrain.npy 2>/dev/null
+echo " "
+
+echo "ResNet-18:"
+python3 inference.py ../data/ood_gray_64_xtrain.npy none results/bird6_gray_64_f20_resnet18/model.keras 0 /tmp/ttt 2>/dev/null >/dev/null
+python3 ood_analysis.py /tmp/ttt/keep_labels.npy ../data/ood_ytrain.npy 2>/dev/null
+echo " "
+

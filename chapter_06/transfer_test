@@ -1,0 +1,29 @@
+#
+#  file:  transfer_test
+#
+#  Compare models trained on Birds 25 for transfer learning
+#  with bird6
+#
+#  RTK, 05-Nov-2024
+#  Last update:  08-Nov-2024
+#
+################################################################
+
+echo "MLP 512: VGG8"
+python3 transfer.py mlp 512 vgg8 1 2>/dev/null
+python3 transfer.py mlp 512 vgg8 1 2>/dev/null
+python3 transfer.py mlp 512 vgg8 1 2>/dev/null
+python3 transfer.py mlp 512 vgg8 1 2>/dev/null
+python3 transfer.py mlp 512 vgg8 1 2>/dev/null
+python3 transfer.py mlp 512 vgg8 1 2>/dev/null
+
+echo
+echo
+echo "MLP 512: ResNet-18"
+python3 transfer.py mlp 512 resnet18 1 2>/dev/null
+python3 transfer.py mlp 512 resnet18 1 2>/dev/null
+python3 transfer.py mlp 512 resnet18 1 2>/dev/null
+python3 transfer.py mlp 512 resnet18 1 2>/dev/null
+python3 transfer.py mlp 512 resnet18 1 2>/dev/null
+python3 transfer.py mlp 512 resnet18 1 2>/dev/null
+

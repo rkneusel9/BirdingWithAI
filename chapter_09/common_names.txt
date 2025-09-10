@@ -1,0 +1,180 @@
+asbfly  | Asian Brown Flycatcher
+ashdro1 | Ashy Drongo
+ashpri1 | Ashy Prinia
+ashwoo2 | Ashy Woodswallow
+asikoe2 | Asian Koel
+asiope1 | Asian Openbill
+aspfly1 | Indian Paradise-Flycatcher
+aspswi1 | Asian Palm Swift
+barfly1 | Black-and-orange Flycatcher
+barswa  | Barn Swallow
+bcnher  | Black-crowned Night Heron
+bkcbul1 | Flame-throated Bulbul
+bkrfla1 | Black-rumped Flameback
+bkskit1 | Black-winged Kite
+bkwsti  | Black-winged Stilt
+bladro1 | Black Drongo
+blaeag1 | Black Eagle
+blakit1 | Black Kite
+blhori1 | Black-hooded Oriole
+blnmon1 | Black-naped Monarch
+blrwar1 | Blyth's Reed Warbler
+bncwoo3 | Brown-capped Pygmy Woodpecker
+brakit1 | Brahminy Kite
+brasta1 | Brahminy Starling
+brcful1 | Brown-cheeked Fulvetta
+brfowl1 | Brown Fish-Owl
+brnhao1 | Brown Boobook
+brnshr  | Brown Shrike
+brodro1 | Bronzed Drongo
+brwjac1 | Bronze-winged Jacana
+brwowl1 | Brown Wood-Owl
+btbeat1 | Blue-tailed Bee-eater
+bwfshr1 | Bar-winged Flycatcher-shrike
+categr  | Western/Eastern Cattle-Egret
+chbeat1 | Chestnut-headed Bee-eater
+cohcuc1 | Common Hawk-Cuckoo
+comfla1 | Common Flameback
+comgre  | Common Greenshank
+comior1 | Common Iora
+comkin1 | Common Kingfisher
+commoo3 | Eurasian Moorhen
+commyn  | Common Myna
+compea  | Indian Peafowl
+comros  | Common Rosefinch
+comsan  | Common Sandpiper
+comtai1 | Common Tailorbird
+copbar1 | Coppersmith Barbet
+crbsun2 | Crimson-backed Sunbird
+cregos1 | Crested Goshawk
+crfbar1 | Malabar Barbet
+crseag1 | Crested Serpent-Eagle
+dafbab1 | Dark-fronted Babbler
+darter2 | Oriental Darter
+eaywag1 | Western Yellow Wagtail
+emedov2 | Asian Emerald Dove
+eucdov  | Eurasian Collared-Dove
+eurbla2 | Indian Blackbird
+eurcoo  | Eurasian Coot
+forwag1 | Forest Wagtail
+gargan  | Garganey
+gloibi  | Glossy Ibis
+goflea1 | Golden-fronted Leafbird
+graher1 | Gray Heron
+grecou1 | Greater Coucal
+greegr  | Great Egret
+grefla1 | Greater Flameback
+grehor1 | Great Hornbill
+grejun2 | Gray Junglefowl
+grenig1 | Great Eared-Nightjar
+grewar3 | Greenish Warbler
+grnsan  | Green Sandpiper
+grnwar1 | Green Warbler
+grtdro1 | Greater Racket-tailed Drongo
+gryfra  | Gray Francolin
+grynig2 | Jungle Nightjar
+grywag  | Gray Wagtail
+gybpri1 | Gray-breasted Prinia
+gyhcaf1 | Gray-headed Canary-Flycatcher
+heswoo1 | Heart-spotted Woodpecker
+hoopoe  | Eurasian Hoopoe
+houcro1 | House Crow
+houspa  | House Sparrow
+inbrob1 | Indian Blue Robin
+indpit1 | Indian Pitta
+indrob1 | Indian Robin
+indrol2 | Indian Roller
+indtit1 | Indian Yellow Tit
+ingori1 | Indian Golden Oriole
+inpher1 | Indian Pond-Heron
+insbab1 | Indian Scimitar-Babbler
+insowl1 | Indian Scops-Owl
+isbduc1 | Indian Spot-billed Duck
+jerbus2 | Jerdon's Bushlark
+junbab2 | Jungle Babbler
+junmyn1 | Jungle Myna
+junowl1 | Jungle Owlet
+kenplo1 | Kentish Plover
+kerlau2 | Palani Laughingthrush
+labcro1 | Large-billed Crow
+laudov1 | Laughing Dove
+lblwar1 | Large-billed Leaf Warbler
+lesyel1 | Lesser Yellownape
+lewduc1 | Lesser Whistling-Duck
+lirplo  | Little Ringed Plover
+litegr  | Little Egret
+litgre1 | Little Grebe
+litspi1 | Little Spiderhunter
+litswi1 | Little Swift
+lobsun2 | Loten's Sunbird
+maghor2 | Malabar Gray Hornbill
+malpar1 | Malabar Parakeet
+maltro1 | Malabar Trogon
+malwoo1 | Malabar Woodshrike
+marsan  | Marsh Sandpiper
+mawthr1 | Malabar Whistling-Thrush
+moipig1 | Mountain Imperial-Pigeon
+nilfly2 | Nilgiri Flycatcher
+niwpig1 | Nilgiri Wood-Pigeon
+nutman  | Scaly-breasted Munia
+orihob2 | Oriental Honey-buzzard
+oripip1 | Paddyfield Pipit
+pabflo1 | Pale-billed Flowerpecker
+paisto1 | Painted Stork
+piebus1 | Pied Bushchat
+piekin1 | Pied Kingfisher
+placuc3 | Gray-bellied Cuckoo
+plaflo1 | Nilgiri Flowerpecker
+plapri1 | Plain Prinia
+plhpar1 | Plum-headed Parakeet
+pomgrp2 | Gray-fronted Green-Pigeon
+purher1 | Purple Heron
+pursun3 | Purple-rumped Sunbird
+pursun4 | Purple Sunbird
+purswa3 | Gray-headed Swamphen
+putbab1 | Puff-throated Babbler
+redspu1 | Red Spurfowl
+rerswa1 | European/African/Eastern Red-rumped Swallow
+revbul  | Red-vented Bulbul
+rewbul  | Red-whiskered Bulbul
+rewlap1 | Red-wattled Lapwing
+rocpig  | Rock Pigeon
+rorpar  | Rose-ringed Parakeet
+rossta2 | Rosy Starling
+rufbab3 | Rufous Babbler
+ruftre2 | Rufous Treepie
+rufwoo2 | Rufous Woodpecker
+rutfly6 | Rusty-tailed Flycatcher
+sbeowl1 | Spot-bellied Eagle-Owl
+scamin3 | Orange Minivet
+shikra1 | Shikra
+smamin1 | Small Minivet
+sohmyn1 | Southern Hill Myna
+spepic1 | Speckled Piculet
+spodov  | Spotted Dove
+spoowl1 | Spotted Owlet
+sqtbul1 | Square-tailed Bulbul
+stbkin1 | Stork-billed Kingfisher
+sttwoo1 | Streak-throated Woodpecker
+thbwar1 | Thick-billed Warbler
+tibfly3 | Tickell's Blue Flycatcher
+tilwar1 | Tickell's Leaf Warbler (Tickell's)
+vefnut1 | Velvet-fronted Nuthatch
+vehpar1 | Vernal Hanging-Parrot
+wbbfly1 | White-bellied Blue Flycatcher
+wemhar1 | Western Marsh Harrier
+whbbul2 | White-browed Bulbul
+whbsho3 | White-bellied Sholakili
+whbtre1 | White-bellied Treepie
+whbwag1 | White-browed Wagtail
+whbwat1 | White-breasted Waterhen
+whbwoo2 | White-bellied Woodpecker
+whcbar1 | White-cheeked Barbet
+whiter2 | Whiskered Tern
+whrmun  | White-rumped Munia
+whtkin2 | White-throated Kingfisher
+woosan  | Wood Sandpiper
+wynlau1 | Wayanad Laughingthrush
+yebbab1 | Yellow-billed Babbler
+yebbul3 | Yellow-browed Bulbul
+zitcis1 | Zitting Cisticola

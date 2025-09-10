@@ -1,0 +1,59 @@
+red-breasted merganser
+drake
+goose
+ruddy turnstone
+red-backed sandpiper
+redshank
+dowitcher
+oystercatcher
+American Egret
+bittern
+little blue heron
+American Coot
+black stork
+white stork
+bustard
+crane
+flamingo
+limpkin
+spoonbill
+king penguin
+albatross
+pelican
+European gallinule
+black swan
+peacock
+partridge
+quail
+black grouse
+prairie chicken
+ptarmigan
+ruffed grouse
+indigo bunting
+brambling
+goldfinch
+house finch
+junco
+bulbul
+robin
+jay
+magpie
+chickadee
+water ouzel
+bald eagle
+kite
+great grey owl
+vulture
+coucal
+sulphur-crested cockat
+lorikeet
+African grey
+macaw
+hummingbird
+bee eater
+hornbill
+jacamar
+toucan
+ostrich
+cock
+hen

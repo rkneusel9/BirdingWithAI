@@ -1,0 +1,11 @@
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l0
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l1
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l2
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l3
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l4
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l5
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l6
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l7
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l8
+python3 train_bird6_augment.py lenet5 rgb 64 64 24 20 results/l9
+

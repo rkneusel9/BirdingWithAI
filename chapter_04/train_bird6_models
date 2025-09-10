@@ -1,0 +1,27 @@
+#
+#  file: train_bird6_models
+#
+#  RTK, 29-Sep-2024
+#  Last update:  29-Sep-2024
+#
+################################################################
+
+#  Create the output directory
+mkdir results 2>/dev/null
+
+#  Train 32x32 models
+python3 train_bird6.py lenet5   rgb  32 16 32 results/bird6_rgb_32_lenet5
+python3 train_bird6.py vgg8     rgb  32 16 32 results/bird6_rgb_32_vgg8
+python3 train_bird6.py resnet18 rgb  32 16 32 results/bird6_rgb_32_resnet18
+python3 train_bird6.py lenet5   gray 32 16 32 results/bird6_gray_32_lenet5
+python3 train_bird6.py vgg8     gray 32 16 32 results/bird6_gray_32_vgg8
+python3 train_bird6.py resnet18 gray 32 16 32 results/bird6_gray_32_resnet18
+
+#  Train 64x64 models
+python3 train_bird6.py lenet5   rgb  64 16 32 results/bird6_rgb_64_lenet5
+python3 train_bird6.py vgg8     rgb  64 16 32 results/bird6_rgb_64_vgg8
+python3 train_bird6.py resnet18 rgb  64 16 32 results/bird6_rgb_64_resnet18
+python3 train_bird6.py lenet5   gray 64 16 32 results/bird6_gray_64_lenet5
+python3 train_bird6.py vgg8     gray 64 16 32 results/bird6_gray_64_vgg8
+python3 train_bird6.py resnet18 gray 64 16 32 results/bird6_gray_64_resnet18
+
